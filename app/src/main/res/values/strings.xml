@@ -110,6 +110,9 @@
     <string name="menu_title_headset_plugged_orientation">Orientation when earphone is connected</string>
     <string name="menu_description_headset_plugged_orientation">Changes to the orientation set when the earphone is connected</string>
 
+    <string name="menu_description_plugged_orientation">menu_description_plugged_orientation</string>
+    <string name="menu_title_plugged_orientation">menu_title_plugged_orientation</string>
+
     <string name="dialog_title_reset_theme">Confirmation</string>
     <string name="dialog_message_reset_theme">Would you like to reset theme?</string>
     <string name="dialog_title_reset_layout">Confirmation</string>

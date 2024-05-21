@@ -148,4 +148,7 @@
     <string name="menu_title_widget_config">ウィジェット設定</string>
     <string name="menu_widget_config_divider">↑有効アイコン\n↓無効アイコン</string>
     <string name="menu_title_widget_list">ウィジェット一覧</string>
+
+    <string name="menu_description_plugged_orientation">menu_description_plugged_orientation</string>
+    <string name="menu_title_plugged_orientation">menu_title_plugged_orientation</string>
 </resources>
